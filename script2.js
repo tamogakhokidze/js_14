@@ -164,3 +164,13 @@
 //npm - node package manager - გარე ბიბლიოთეკების დასაყენებლად გამოიყენება
 
 //npmjs.com
+
+// axios   npm install საჭიროა
+
+// axios.get ('url')
+// .then (function(response){
+//     console.log(response);
+// })
+// .catch(function(error){
+//     console.log(error);
+// })
